@@ -1,6 +1,6 @@
-Pysiques;Acteurs;Concept label;Concept uri
-vidéos;Chercheurs ;séminaire;https://lov.linkeddata.es/dataset/lov/vocabs?q=seminar
-Site web;Organisateur;arcanes;
-;étudiants;éditorialisation;
-;public;;
-;présentateurs;;
+Pysiques;Acteurs;Concept label;Concept uri;sujet;predicat;objet
+vidéos;Chercheurs ;séminaire;https://lov.linkeddata.es/dataset/lov/vocabs?q=seminar;a3;c4;p2
+Site web;Organisateur;arcanes;;a3;c4;p2
+;étudiants;éditorialiser;;;;
+;public;;;;;
+;présentateurs;;;;;
