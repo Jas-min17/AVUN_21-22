@@ -1,6 +1,10 @@
-Pysiques;Acteurs;Concept label;Concept uri;sujet;predicat;objet
-vidÈos;Chercheurs ;sÈminaire;https://lov.linkeddata.es/dataset/lov/vocabs?q=seminar;a3;c4;p2
-Site web;Organisateur;arcanes;;a3;c4;p2
-;Ètudiants;Èditorialiser;;;;
-;public;;;;;
-;prÈsentateurs;;;;;
+Pysiques,Acteurs,Concept label,Concept uri,sujet,predicat,objet
+casque,Ouvriers,s√©minaire,https://lov.linkeddata.es/dataset/lov/vocabs?q=seminar,a3,c4,p2
+Telephone,Conduteurs traveau,arcanes,,a3,c4,p2
+Pelle m√©canique,Ing√©nieurs,√©ditorialiser,,,,
+camion,Architectes,,,,,
+t√©l√©phone,Managers,,,,,
+capteurs,,,,,,
+laptop,,,,,,
+cam√©ra,,,,,,
+gps,,,,,,
