@@ -2,13 +2,13 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="3023.6221"
-   height="600"
-   viewBox="0 0 800 158.75"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
    version="1.1"
    id="svg5"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
-   sodipodi:docname="modelisation.svg"
+   sodipodi:docname="IOT.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -26,64 +26,62 @@
      showgrid="false"
      showguides="false"
      inkscape:zoom="0.45254834"
-     inkscape:cx="-535.85436"
+     inkscape:cx="96.122328"
      inkscape:cy="607.66989"
      inkscape:window-width="1366"
      inkscape:window-height="746"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g41708"
-     width="3023.6221px"
-     units="px" />
+     inkscape:current-layer="g41708" />
   <defs
      id="defs2">
     <rect
        x="682.79999"
-       y="262.95535"
+       y="262.95534"
        width="0"
-       height="50.823299"
+       height="50.8233"
        id="rect63789" />
     <marker
-       style="overflow:visible"
+       style="overflow:visible;"
        id="Arrow1Lend"
-       refX="0"
-       refY="0"
+       refX="0.0"
+       refY="0.0"
        orient="auto"
        inkscape:stockid="Arrow1Lend"
        inkscape:isstock="true">
       <path
-         transform="matrix(-0.8,0,0,-0.8,-10,0)"
-         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
-         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt;"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
          id="path36361" />
     </marker>
     <marker
        style="overflow:visible"
        id="marker36628"
-       refX="0"
-       refY="0"
+       refX="0.0"
+       refY="0.0"
        orient="auto"
        inkscape:stockid="Arrow1Lstart"
        inkscape:isstock="true">
       <path
-         transform="matrix(0.8,0,0,0.8,10,0)"
-         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
-         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         transform="scale(0.8) translate(12.5,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
          id="path36626" />
     </marker>
     <marker
        style="overflow:visible"
        id="Arrow1Lstart"
-       refX="0"
-       refY="0"
+       refX="0.0"
+       refY="0.0"
        orient="auto"
        inkscape:stockid="Arrow1Lstart"
        inkscape:isstock="true">
       <path
-         transform="matrix(0.8,0,0,0.8,10,0)"
-         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
-         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         transform="scale(0.8) translate(12.5,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
          id="path36358" />
     </marker>
     <linearGradient
@@ -148,7 +146,7 @@
        x="4.7732143"
        y="4.7732143" />
     <rect
-       style="opacity:0.336538;fill:#ff7bd5;fill-opacity:0;stroke:#f0ede7;stroke-width:0.264999;stroke-linejoin:miter;stroke-miterlimit:70.7;stroke-dasharray:1.06, 2.12;stroke-dashoffset:0;stroke-opacity:0;filter:url(#filter6473)"
+       style="fill:#ff7bd5;fill-opacity:0;stroke:#f0ede7;stroke-width:0.264999;stroke-linejoin:miter;stroke-miterlimit:70.7;stroke-dasharray:1.06, 2.12;stroke-dashoffset:0;stroke-opacity:0;filter:url(#filter6473);opacity:0.33653846"
        id="rect6471"
        width="93.873207"
        height="41.367855"
@@ -222,7 +220,7 @@
          xml:space="preserve"
          transform="scale(0.26458333)"
          id="text63787"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect63789);fill:#000000;fill-opacity:1;stroke:none" />
+         style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;white-space:pre;shape-inside:url(#rect63789)" />
     </g>
     <text
        xml:space="preserve"
@@ -237,9 +235,11 @@
          y="24.926785" /></text>
     <g
        id="g41708"
-       onclick="window.open('https://www.youtube.com/watch?v=Y6a27QAFQmw','blank')">
+       onclick="window.open('https://www.youtube.com/watch?v=Y6a27QAFQmw','blank')"
+       style="cursor:pointer">
       <g
          id="g42189"
+         style="cursor:pointer"
          onclick="window.open('https://www.youtube.com/watch?v=Y6a27QAFQmw','blank')">
         <path
            sodipodi:type="star"
